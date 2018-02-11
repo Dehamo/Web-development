@@ -1,0 +1,34 @@
+Stage: Ingenieur linguiste junior, Sewote
+
+Offre de stage
+« Ingénieur linguiste junior »
+
+Créée en avril 2016, Sewote est une start-up spécialisée dans la R&D en
+linguistique informatique. Nous développons des logiciels applicatifs
+sémantiques dans l'optique de proposer des solutions BtoB de traitement
+automatique des données écrites. Notre équipe est composée de
+développeurs informatiques, de professionnels de l'information et de
+linguistes informaticiens.
+
+Nous sommes à la recherche d’un ingénieur linguiste pour un stage de 6
+mois afin de travailler à la réalisation de nos projets sémantiques
+ainsi qu’à l’élaboration de nos différentes ressources électroniques en
+langue française et anglaise.
+
+
+Début de stage : 1er janvier 2018
+
+Compétences requises :
+Traitement Automatique des Langues
+Gestion de projet
+OS : Linux et Windows
+Technologie : NOOJ et/ou UNITEX
+Langages informatiques : Perl/Python/Java
+Langues : anglais courant (anglais des affaires)
+
+Lieu du stage : Pépinière 27 - 27 rue du Chemin Vert 75011 Paris
+Indemnités de stage : 554 € + remboursement de 50% du ticket de
+transport
+
+Si vous êtes intéressé par cette offre, merci d’envoyer votre
+candidature à julien.letailleur@sewote.com

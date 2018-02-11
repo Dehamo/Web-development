@@ -1,0 +1,267 @@
+/* =======================================================
+*  Style
+* ======================================================= */
+
+body {
+    font-family: "Open Sans", Arial, serif;
+    line-height: 1.8;
+    background: #F9F7F7;
+    font-size: 15px; 
+    font-weight: 300;   
+    color: #727272;
+}
+
+p {
+    text-align: justify; 
+    line-height: 1.8; 
+    font-size: 15px;
+    color: #727272;
+}
+
+li {
+    line-height: 1.5; 
+    font-size: 15px;
+    color: #727272;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgba(0, 0, 0, 0.8);
+    font-family: "Open Sans", Arial, serif;
+    font-weight: 400;
+    margin: 0 0 30px 0;
+}
+
+.box {
+    background: #FFF;
+    max-width: 70%;
+    margin: 0 auto;
+    position: relative;
+    box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.07);
+}
+
+.center {
+    text-align: center; 
+}
+
+a {
+    text-decoration: none; 
+    color:#727272;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+
+a:hover {
+    text-decoration: none; 
+    color: #961D1D;  
+    font-weight: 400; 
+}
+
+#menu, #menu ul {
+    display: inline;
+    padding: 0px;
+    margin : 10px; 
+    list-style : none; 
+    text-align : center; 
+}
+
+#menu li {
+    float: left;
+    margin-top : 40px; 
+    margin-left: 40px; 
+    margin-right: 40px; 
+    padding: 20px;  
+}
+
+#menu a:hover {
+    text-decoration: none; 
+}
+
+#menu li.active {
+    color: #961D1D;
+    font-weight: 400; 
+    border-bottom: 1px solid #961D1D; 
+}
+
+table { 
+    border-collapse: collapse; text-align: center; 
+    padding: 1px 10px;
+}
+
+tr:nth-child(1) {
+    background: #F9F7F7;
+    font-size: 15px;
+    color: #727272;
+    }
+    th, td {
+    padding: 10px;
+    text-align: left;
+    }
+    tr:nth-child(even) {
+    background: #F9F7F7;
+    }
+
+p.textError {
+    color: #961D1D;  
+}
+
+/* =======================================================
+*  Header
+* ======================================================= */
+
+.header {
+    display: table; 
+    width: 100%; 
+    height: 100%; 
+}
+
+.logo {
+    display: table-cell; 
+    width: 40%; 
+}
+
+#logo-img {
+    float: left;
+    margin-top: 10px; 
+    margin-left: 10px; 
+    margin-bottom: 10px; 
+    margin-right: 10px; 
+    width: 75px; 
+    height: 75px; 
+}
+
+#acro {
+    float: left;
+    margin-top: 10px; 
+    margin-left: 5px; 
+    margin-right: 10px; 
+    width: 380px; 
+    height: 50px;  
+    font-size: 35px; 
+    font-weight: 500;
+    color: #961D1D;
+}
+
+#name {
+    float: left;
+    margin-left: 5px; 
+    margin-right: 10px; 
+    width: 380px;
+    height: 40px; 
+}
+
+.menu {
+    display: table-cell; 
+    width: 60%; 
+}
+
+.connect {
+    float: left;
+    padding-top:7px;
+}
+
+#disconnect {
+    border-radius: 8px;
+    line-height : 1.5;
+    font-size: 14px;
+}
+
+#account {
+    padding-top:8px;
+}
+
+/* =======================================================
+*  Article
+* ======================================================= */
+
+.main {
+    margin: 5px; 
+    padding: 25px;
+}
+
+#container {
+    display: table;
+    width: 100%; 
+    height: 100%;
+}
+
+#presentation {
+    display: table-cell; 
+    width:75%;
+}
+
+#actualites {
+    display: table-cell; 
+    width: 25%; 
+    padding: 25px;
+}
+
+/* =======================================================
+*  Footer
+* ======================================================= */
+
+.footer {
+    font-size: 15px; 
+}
+
+/* =======================================================
+*  Formulaire
+* ======================================================= */
+
+label {
+    font-family: "Open Sans", Arial, serif;
+    padding: 5px;
+    margin-top: 2px;
+    line-height: 1.5; 
+}
+
+input {
+    width:250px;    
+}
+
+.checkbox {
+    width:20px;;
+}
+
+button {
+    font-family: "Open Sans", Arial, serif;
+    line-height: 1.8;
+    background: #F9F7F7;
+    font-size: 15px; 
+    font-weight: 300; 
+    border-radius: 8px;
+    color: #961D1D;
+    margin: 5px; 
+    padding: 5px; 
+}
+
+button:hover {
+    text-decoration: none; 
+    color: #961D1D;  
+    font-weight: 400; 
+}
+
+.table {
+    display: table
+}
+
+.tr {
+    display: table-row
+}
+
+.th {
+    display: table-cell;
+    font-weight: bold;
+}
+
+.td {
+    display: table-cell;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.td#title {
+    font-weight: bold;
+}

@@ -1,0 +1,103 @@
+Stage: TAL/IA, Extraction automatique d'une taxonomie, Prometil
+
+Objet
+
+Titre: Extraction automatique d’une taxonomie à partir des données
+Wikipédia adaptée à des documents techniques
+
+--------------------------
+
+Stage financé par le projet CLE (Contrat de recherche Laboratoires -
+Entreprises)-ELENAA (des Exigences en LangagE Naturel à leurs Analyses
+Automatiques)
+
+---------------------------
+
+*Contexte*
+---------------------------
+
+Le projet CLE (Contrat de recherche Laboratoires - Entreprises) intitulé
+“ELENAA (des Exigences en LangagE Naturel à leurs Analyses
+Automatiques)”, est mené par une collaboration entre Onera DTIM, IRIT
+SIG et la société Prometil avec un soutien financier de la région
+Languedoc Roussillon Midi-Pyrénées (Occitanie).
+
+Le but de ce projet est, à partir d'exigences réelles, écrites en
+langage naturel, issues de systèmes embarqués, de réaliser des
+vérifications automatiques pour aider à la spécification d'exigences
+plus sûres et sans erreurs. Pour ce faire, nous partirons d'exigences
+écrites en langage naturel et nous plongerons ces exigences dans un
+cadre formel pour pouvoir utiliser des solveurs logiques. De plus, nous
+analysons ces exigences en utilisant des technologies d’intelligence
+artificielle (IA) comme de l’apprentissage automatique afin d’extraire
+des anomalies spécifiques (par exemple la redondance).
+
+
+*Objectif*
+------------------------------
+
+La société Prometil (www.prometil.com) développe depuis 3 ans un outil
+d’analyse de la qualité des exigences qui sont au cœur de la conception
+des systèmes embarqués, Semios (www.semiosapp.com). Il est actuellement
+déployé chez des entreprises et des partenaires industriels (Toulouse,
+Toulon, Paris). Prometil continue à innover Semios en renforçant les
+activités R&D autour de cet outil par la collaboration avec les
+laboratoires de recherche à travers le projet ELENAA.
+
+Dans le cadre de ce projet, Prometil cherche un stagiaire en IA qui va
+participer dans les missions suivantes:
+
+   1. Extraction d’une hiérarchie de données à partir de wikipédia
+   2. Etudes des différentes méthodes (algorithmes d’apprentissage
+      automatique, réseaux neurones,...) d’extraction des connaissances
+      à partir des documents techniques
+   3. Extraction des concepts significatifs liés aux domaines
+      spécifiques comme aéronautique, spatial, automobile, naval...
+   4. Construction des relations hiérarchiques (taxonomie) entre les
+      concepts identifiés en utilisant les données de Wikipédia.
+
+*Profil souhaité*
+------------------------------
+
+Niveau : Master 2 en Informatique, spécialisé en IA, Traitement des
+données
+
+- Connaissances en méthodes d’apprentissage automatique (supervisé et/ou
+  non-supervisé) et d’apprentissage profond
+
+- Connaissances des techniques d'extraction de graphes est un plus
+
+- Connaissances en outils du TAL (Tokenizers, POS taggers, Parsers) est
+  un plus
+
+- Capacités d'analyse et de synthèse
+
+- Connaissance des langages de programmation Python et Java
+
+- Organisé(-e), autonome et curieux(-se) de nouvelles technologies
+
+*Modalités du poste*
+--------------------
+
+Durée : entre 4 et 6 mois
+
+Date de début: souhaité à partir de mars 2018
+
+Indemnité : minimum 550€ /mois (possible de négocier selon les
+compétences)
+
+Lieu : Société Prometil - Toulouse
+
+Merci d'adresser CV et lettre de motivation à l’adresse mail suivante :
+semios@prometil.com
+
+www.prometil.com
+Charlotte BRETON COSTEDOAT
+
+*Responsable Marketing et Communication*
+Chef de produit Maperless
+52 Rue Jacques Babinet 31100 Toulouse
+E-mail : c.breton@prometil.com
+
+Tel. Prometil : +33 5 62 87 52 42
+Extension : 1090
